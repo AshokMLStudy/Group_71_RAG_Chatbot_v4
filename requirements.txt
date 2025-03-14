@@ -5,3 +5,4 @@ transformers
 rank_bm25
 torch
 pdfplumber  # For local PDF preprocessing
+nltk
